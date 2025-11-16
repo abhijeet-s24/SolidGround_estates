@@ -78,7 +78,7 @@ a:hover {
 .menu{
   display: flex;
   padding: 12px;
-  background-color: ##FAFAFA;
+  background-color: #FAFAFA;
 }
 .menu a{
   color: #333;
