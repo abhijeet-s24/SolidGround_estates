@@ -1,0 +1,39 @@
+
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+    background: #F5F5F5;
+    color: #333;
+}
+
+.readme-container {
+    max-width: 800px;
+    margin: 60px auto;
+    background: #ffffff;
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.12);
+}
+
+.readme-container h1 {
+    text-align: center;
+    color: #082567;
+    margin-bottom: 30px;
+}
+
+.section {
+    margin-bottom: 30px;
+}
+
+.section h2 {
+    color: #082567;
+    margin-bottom: 10px;
+    font-size: 22px;
+}
+
+.section ul {
+    margin: 10px 0 0 20px;
+    line-height: 1.7;
+}
